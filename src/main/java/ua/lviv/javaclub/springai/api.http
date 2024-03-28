@@ -1,0 +1,33 @@
+###
+GET localhost:8080/ai/joke
+
+###
+GET localhost:8080/ai/generateStream
+
+###
+GET localhost:8080/ai/generate
+
+###
+
+GET localhost:8080/ai/prompt/joke
+
+###
+
+GET localhost:8080/ai/prompt/joke/doctor
+
+###
+GET localhost:8080/ai/embedding
+
+###
+GET localhost:8080/ai/image
+
+###
+GET localhost:8080/ai/transcription
+
+###
+GET localhost:8080/ai/weather
+
+###
+
+#GET localhost:8080/ai/ask/What+can+be+done+to+improve+the+situation%3F
+GET localhost:8080/ai/ask/How+much+will+it+cost+to+park+at+the+meter%3F+Who+sets+the+rates%3F
